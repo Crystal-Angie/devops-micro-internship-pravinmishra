@@ -33,7 +33,10 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+The Compounding Effect: While most people only apply or relate this to finances, I believe it applies to all aspects of life, be it career, learning a skill, health(living a healthy lifestyle), etc , small consistent actions or habits, compounded over time, is always bound to produce more results than overstressing or attempting to do everything at once which will probably lead to burnout and starting and quitting.
+
+Proceeding at your Pace : As the world continues to rapidly evolve everyday, most people believe in joining the rat race and chasing the next dynamic, but i believe that can potentially lead your nervous system into overdrive and leave you feeling never enough or satisfied and thus never at peace in life, career, etc. this is not to say, stay rooted in old systems while the world change - you’ll get left behind- rather while you try to adapt, do it at your pace (slowly, fast, or whatever suits you), however, keep to your rhythm while you adjust.
+
 
 ---
 
@@ -51,39 +54,27 @@ Write each truth in this format:
 
 ---
 
-## Truth #1
-
-### Truth
-
-Add your answer here...
+## Truth #1: Environment shapes behavior more than willpower does.
 
 ### Evidence from my life
 
-Add your answer here...
+When I stayed in places and around people who were unfocused, I also became distracted no matter how motivated I felt. When I changed my study space and the people I learned with, my concentration and output increased without forcing myself.
 
 ---
 
-## Truth #2
-
-### Truth
-
-Add your answer here...
+## Truth #2: The more people you involve in your decisions, the less confident you are to carry it out
 
 ### Evidence from my life
 
-Add your answer here...
+Previously before making decisions, I would seek advice from a lot of people thinking it would prevent me from making mistakes, I would ask all these questions yet rather than answers I would discover different reasons why it wouldn’t work and feel less confident than I was initially to carry it out and at the end most of the decisions were never carried out. Now, I have come to the realization that if i want to do something, rather than ask around, I proceed to do it, at the end,it’s either I fail and learn or I succeed.
 
 ---
 
-## Truth #3
-
-### Truth
-
-Add your answer here...
+## Truth #3: Confidence grows after results, not before.
 
 ### Evidence from my life
 
-Add your answer here...
+I used to wait until I “felt confident” before speaking, applying, or trying. Later I realized that whenever I acted while still unsure, small wins followed, and only after seeing results did my confidence grow.
 
 ---
 
@@ -135,80 +126,50 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+After joining the second cohort of the DevOps Micro Internship by Pravin Mishra, one of the tasks we had was to visualize and write about the version of ourselves we envisioned few years from now. After thinking a while about where I would like to see myself in my Cloud journey 3years from now, I decided to pen this  down;
+
+So Here’s Angela’s version 2.0;
+
+“In 2028, Angela had grown into a Cloud and DevOps Engineer with strong hands-on experience in building, automating, and securing scalable systems. Her GitHub showed production-ready systems on AWS, Azure, and GCP—Terraform modules, Kubernetes clusters, CI/CD pipelines with GitHub Actions, monitoring with Prometheus and Grafana. Each repository told a story of problems solved, systems automated, and lessons documented.
+
+She had earned AWS Solutions Architect, Terraform Associate, and Kubernetes CKA, but the real proof lived in the environments she helped run. As a DevOps Engineer in a growing tech company, she had shipped automated deployments, improved uptime, reduced manual operations, and helped teams move fully into cloud-native workflows.
+
+Her Medium and LinkedIn pages had become a small learning hub for beginners, with clear articles on cloud basics, DevOps pipelines, and Linux, written from the point of view of someone who had walked the path. A simple portfolio tied everything together: projects, blogs, diagrams, and certifications.
+
+Outside her job, she had contributed to open source, reviewed pull requests, guided juniors, and stayed active in cloud communities and study groups. Her background in business and customer success gave her an edge, she understood both systems and people, and could translate business needs into reliable infrastructure.’’
+
+This is Angela 2.0: built through consistency, practice, and visible work. Let’s do this!!
+This is part of DevOps Micro-Internship (DMI) by Pravin Mishra 
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+`Add your URL here`: https://www.linkedin.com/feed/update/urn:li:activity:7417594073731039232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBbwceIaETAeT12gSf6NsWQ%3D%3D  
 
 ---
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
 
-### Important
-
-You don't need to write the full story.
-
-Focus on the feeling:
-
-* guilt
-* fear
-* shame
-* stress
-* regret
-* numbness
-* etc.
-
-This is about self-awareness, not judgment.
-
-### Answer Format
-
-**Yes / No**
-
-If Yes:
-
-**What emotion did you feel?** (minimum 50–100 words)
-
 ## Answer
-
-Add your answer here...
+No
 
 ---
 
 # Assignment 5. What are 10 non-fiction books you plan to read in the next 1 year?
 
-### Rules
-
-* Mention **Title + Author**
-* Any language allowed
-* No fiction novels
-
-### Tip
-
-Choose books that improve:
-
-* mindset
-* communication
-* productivity
-* health
-* money
-* career
-* leadership
-
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Thinking in Systems: A Primer –  Donella H. Meadows
+2. The Lean Startup – Eric Ries
+3. The Psychology of Money – Morgan Housel
+4. Outliers – Malcolm Gladwell
+5. Atomic Habits – James Clear(Reread)
+6. The Defining Decade: Why Your Twenties Matter—And How to Make the Most of Them Now –  Meg Jay
+7. Who Better Than You?: The Art of Healthy Arrogance and Dreaming Big – Will Packer
+8. Big Friendship: How We Keep Each Other Close – Aminatou Sow & Ann Friedman
+9. Passion Struck – John R. Miles
+10. The Intelligent Investor – Benjamin Graham
 
 ---
 
@@ -218,35 +179,16 @@ Choose books that improve:
 
 List topics only. No need to share numbers.
 
-### Must Include
-
-* Learning / skill
-* Output / proof
-* Health / energy
-* Time / focus
-* Money / finance (personal or business)
-
-### Example
-
-* Learning hours per week
-* Deep work sessions per week
-* Projects shipped / documented
-* Steps / workouts
-* Sleep hours
-* Spending tracker
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning Progress
+* Projects built and publicly documented (GitHub, blog, portfol
+* Physical workout consistency
+* Deep focus learning hours and distraction time
+* Track Healthy eating
+* Income streams, expenditure  and Investment
+* Professional network and meaningful collaboration
 
 ---
 
@@ -268,11 +210,7 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
-
-Answer:
-
-Add your answer here...
+Answer:**Yes** 
 
 ---
 
@@ -290,33 +228,53 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+**Weekly Routine**
+Monday–Thursday: 
+* 3hrs deep/focused work sessions daily (asssignments, projects)
+* 30 min documenting daily work progress
 
+Friday:
+* 1-2hrs social media documenting & networking (LinkedIn and Medium updates, connecting, engagement, portfolio update)
+* Assignment Submission
+
+Saturday:
+* 8hrs DMI (DevOps Micro-Internship) learning
+
+Sunday:
+* Review, Rest and Get ready for the new week.
 ---
 
 ### Focus Blocks
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+* Days: Mondays- Thursdays
+* Time: 10:00 AM – 1:00 PM(Additional 1hr if needed/depending on uncompleted workload)
+* Goal: Build projects/assignments, write documentation, update Medium/portfolio.
+
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+* Sessions/week: 4 sessions
 
 ---
 
 ### Distraction Rules
 
-Examples:
-
-* Phone rules
-* Social media rules
-* Environment setup
-
 #### My Distraction Rules
 
-Add your answer here...
+Phone rules:
+* Keep phone on “Silent” during deep work and DMI sessions
+* Check messages only after focus blocks
+
+Social media rules:
+* Limit to 2hr/day outside work
+* Turn off notifications / block distracting sites during focus blocks
+
+Environment setup:
+* Clean, quiet workspace with minimal clutter
+* Keep only materials needed for the current session on desk
+* Headphones + low volume music to help concentration
 
 ---
 
@@ -324,28 +282,25 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I recently have a poor sleep schedule which leaves me feeling tired.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Procrastination
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Set  6-8 hours of sleep time (10pm-6am).
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
-
-`Add your URL here`
+`Add your URL here`: https://www.linkedin.com/feed/update/urn:li:activity:7417594073731039232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBbwceIaETAeT12gSf6NsWQ%3D%3D  
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/feed/update/urn:li:activity:7417594073731039232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBbwceIaETAeT12gSf6NsWQ%3D%3D **  
 
 ---
 

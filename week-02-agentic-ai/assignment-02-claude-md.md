@@ -20,7 +20,7 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-Add your screenshot here.
+[Assignment Screenshot](screenshots/claudebefore.png)
 
 ---
 
@@ -34,7 +34,8 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
-Add your screenshot here.
+[Assignment Screenshot](screenshots/claudeinit6a.png)
+[Assignment Screenshot](screenshots/claudemd6b.png)
 
 ---
 
@@ -48,8 +49,17 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-Add your screenshot here.
+Notes: I made some improvements to the CLAUDE.md to better fit project context and specification.
+For project overview, I edited it to reflect the Cloud platform and resources which is being used for this assignment
+“This is a static HTML/CSS portfolio website deployed to AWS using S3 and CloudFront.”
+[Assignment screenshot](screenshots/claudeeditmd7a.png)
 
+For architecture, I edited to include specific terms like “no JavaScript, no build"; this is to ensure Claude Code doesn’t include/build these later on.
+[Assignment screenshot](screenshots/claudeeditmd7b.png)
+
+Improved key conventions/rules by adding this:
+[Assignment screenshot](screenshots/claudeeditmd7c.png)
+This is to provide guidance for Claude Code to use these rules to analyze, review, and generate code correctly following the intended project standards.
 ---
 
 # Task 4 — Test the After State
@@ -62,14 +72,16 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/claudeafter.png)
 
+From the screenshot above, it can be seen that Claude has picked up on the changes made and convention rules and also the use of AWS + CloudFront for deployment and also cites how it conflicts with the README.md 
 ---
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-Add your screenshot here.
+[Assignment Screenshot](screenshots/claudereact.png)
 
+In the screenshot above, Claude pushes back the request, prioritising the instruction and rules in CLAUDE.md 
 ---
 
 # Task 5 — Commit and push your changes to your fork in GitHub
@@ -82,7 +94,8 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/claudegit.png)
+[Assignment screenshot](screenshots/gitprofile.png)
 
 ---
 
@@ -98,7 +111,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+`https://github.com/Crystal-Angie/Ultimate-Agentic-DevOps-with-Claude-Code.git `
 
 ---
 

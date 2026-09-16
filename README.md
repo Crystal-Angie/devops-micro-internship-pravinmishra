@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Angela .C. Chibuike |
+| **LinkedIn** | [angela-c-chibuike](https://www.linkedin.com/in/angela-chibuike) |
+| **Location** | Lagos, Nigeria |
+| **Background** | Cloud, DevOps & AI for Business |
+| **Goal** | Building scalable, secure and efficient solutions for businesses |
 
 ---
 
@@ -65,19 +65,19 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ---
 
-**Your stack (uncomment each badge as you earn it):**
+**Your stack:**
 
-<!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+<! Week 00 → Internet & Networking Basics -->
+<! [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
 
-<!-- Week 01 → Success Mindset -->
-<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+<! Week 01 → Success Mindset -->
+<! [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+<! Week 02 → Agentic AI with Claude Code -->
+<! [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
 
-<!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
+<! Week 03 → Linux & Bash for DevOps -->
+<! [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
 
 <!-- Week 04 → Git & GitHub -->
 <!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) -->
@@ -109,8 +109,6 @@ This is not a course. It is an internship-style program — real deployments, re
 <!-- Week 13 → Final Project / Capstone -->
 <!-- [![Week 13 – Capstone](./badges/week-13.svg)](./week-13-final-project/) -->
 
-*Complete a week → uncomment the badge → watch your stack grow.*
-
 ---
 
 ## Program Overview
@@ -130,10 +128,10 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/angela-chibuike_i-got-into-a-new-devops-program-recently-activity-7361697400802971648-Dc_i?utm_source=share&utm_medium=member_android&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y | https://medium.com/@petersangela809/harnessing-aws-cloudformation-for-seamless-deployments-9258a5460796?sharedUserId=petersangela809  |
+| 01 | Success Mindset | ✅ Completed| ✅ Solved | https://lnkd.in/p/draUGDEj | https://lnkd.in/p/draUGDEj  |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/angela-chibuike_devops-cloudengineering-terraform-activity-7439070913997914113-T3H8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y  | https://medium.com/@petersangela809/the-ultimate-beginners-guide-to-agentic-ai-with-claude-code-2e07dfb3cdf0?sharedUserId=petersangela809  |
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/angela-chibuike_devops-cloudcomputing-linux-activity-7420345062426992641-U8MD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y  | https://medium.com/@petersangela809/deploying-a-react-app-on-ubuntu-with-nginx-an-8-step-process-guide-3138f812f74a?sharedUserId=petersangela809  |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |

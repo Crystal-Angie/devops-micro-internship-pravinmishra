@@ -25,8 +25,8 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
-
+[Task 1 Screenshot](screenshots/screenshot-1-chatgpt.png)
+[Task 1 Screenshot](screenshots/screenshot-2-chatgpt.png) 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a networking protocol is a set of rules that devices follow to communicate and exchange information over a network. I also learned that protocols work like rules in a conversation, ensuring that devices understand and respond to each other correctly.
 
 ---
 
@@ -59,7 +59,8 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When someone in the USA or any part of the world visits EpicReads, hosted in Finland, their computer first finds the site’s IP address, which works like a unique street address on the internet. The request to view the page is broken into small chunks called packets and sent across the network. This process, which is called packet switching, happens in both directions — for the request going to Finland and for the website data coming back. The TCP/IP protocols make this work smoothly: IP tells each packet where to go, and TCP ensures all packets arrive complete and in the correct order. Once the packets reach the Finnish server, it sends the web page back using HTTP or the secure HTTPS, which defines how the page’s text, images, and other elements are delivered so the browser can display them. All of this happens in a fraction of a second.
+
 
 ---
 
@@ -91,29 +92,29 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+[Application Architecture Diagram](screenshots/task3-drawing.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
-
 ---
 
 ## Technologies Used
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* Next.js
+* Tailwind.css
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Nodejs
+* Django
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySql
+* MongoDB
+
 
 ---
 
@@ -142,7 +143,10 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+1. *DNS (Domain Name System)* is like the internet’s phonebook or address storage system which keeps a record of the human readable address for various websites. It makes it easy to remember and access a website using domain names eg. google.com without struggling to remember the IP address numbers, and translates this domain name to the IP address for our browser to find and serve up the right server.
+
+2. My friend should use an ‘A’ Record type to connect his domain, this is because an A record maps a domain directly to an IPv4 address, ensuring that when someone types epicreads.com, the browser knows to reach the server at the IP address (52.172.142.222), allowing users to access the bookstore.
+
 
 ---
 
@@ -178,10 +182,9 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+[VS Code Setup Screenshot](screenshots/task5-vscode.png)
 
 
-Replace `task-5-vscode.png` with your actual screenshot file name.
 
 ---
 
@@ -218,7 +221,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/angela-chibuike_i-got-into-a-new-devops-program-recently-activity-7361697400802971648-Dc_i?utm_source=share&utm_medium=member_android&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y 
 ```
 
 ---
@@ -227,7 +230,22 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+I Got into a new Devops program recently, which i'm grateful for as it'll help me in my quest to get more hands-on training via building projects. 
+
+The first week was all about giving us a refresher and introductory course on Some basic concepts like;
+  • Internet and Networking
+  • App Architecture Stack
+  • DNS basics 
+  • VsCode  and 
+  • Prompting with AI, with assignments to get us up to speed.
+
+Applying this knowledge, I completed Week 0 tasks, some of which involved explaining how users access the "EpicReads" website hosted in Finland from the USA; from requests travelling as data packets via packet switching, guided by IP addresses and reassembled reliably through TCP/IP, with HTTP/HTTPS delivering the final webpage.
+Next, I compared application architectures - sketching a two-tier system (Frontend → Database) and three-tier setup (Frontend → Backend → Database), noting tools like Next.js for frontend, Node.js/Django for backends, and MongoDB for databases, among other tasks.
+
+It has been an exciting experience so far, looking forward to learning more.
+
+𝗣.𝗦. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/dpxu7PJU · 
+Start your DevOps journey: https://lnkd.in/dPHQUBcC
 
 ---
 
@@ -235,19 +253,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+Understanding basic networking concepts such as protocols, IP addresses, DNS, and how websites communicate over the internet was relatively easy, especially when using real-life examples.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding how the different networking and application architecture concepts connect and work together.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I will improve my understanding by practicing more, asking questions when I get stuck, and spending more time working hands-on with the tools and concepts I learn.
 
 ---
 

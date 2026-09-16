@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+[Assignment Screenshot](screenshots/claudeblog.png)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`Add your URL here`
+`https://medium.com/@petersangela809/the-ultimate-beginners-guide-to-agentic-ai-with-claude-code-2e07dfb3cdf0 `
 
 ---
 
@@ -92,7 +92,7 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/claudelinkedin.png)
 
 ---
 
@@ -101,14 +101,49 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
-```
+𝗥𝗲𝗱𝗲𝗳𝗶𝗻𝗶𝗻𝗴 𝗗𝗲𝘃𝗢𝗽𝘀: 𝗙𝗿𝗼𝗺 𝗠𝗮𝗻𝘂𝗮𝗹 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀 𝘁𝗼 𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗔𝗜
 
+Just two months ago, my workflow meant typing every Terraform plan and juggling 7 different tools. Now? I type "/𝗱𝗲𝗽𝗹𝗼𝘆" and my AI team executes the entire workflow and infrastructure pipeline.
+
+This week with DMI, I moved beyond traditional DevOps workflow to 𝗯𝘂𝗶𝗹𝗱 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗮𝗴𝗲𝗻𝘁𝗶𝗰 𝗔𝗜 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝘂𝘀𝗶𝗻𝗴 𝗖𝗹𝗮𝘂𝗱𝗲 𝗖𝗼𝗱𝗲.
+
+𝗧𝗵𝗲 𝗦𝗵𝗶𝗳𝘁:
+𝗧𝗿𝗮𝗱𝗶𝘁𝗶𝗼𝗻𝗮𝗹 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄: Write code → Test → Debug → Context switch → Repeat (slow, error-prone)
+𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄: /scaffold-terraform → /tf-plan → /tf-apply → /deploy (50 seconds, consistent, automated)
+
+ 𝗞𝗲𝘆 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀:
+ • Configured full 𝗮𝗴𝗲𝗻𝘁𝗶𝗰 𝗗𝗲𝘃𝗢𝗽𝘀 𝗲𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁 (AWS CLI, Terraform, Docker, Git, VS Code, Claude Code)
+
+ • Created project memory via 𝗖𝗟𝗔𝗨𝗗𝗘.𝗺𝗱 — teaching AI architecture rules, conventions and safety guardrails of the project.
+
+ • Built specialized DevOps "𝗦𝗸𝗶𝗹𝗹𝘀"—structured commands that trigger predefined workflows ( /scaffold-terraform, /tf-plan, /tf-apply) .
+
+Using this system, I deployed a static portfolio site to AWS with 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺, 𝗦𝟯, 𝗮𝗻𝗱 𝗖𝗹𝗼𝘂𝗱𝗙𝗿𝗼𝗻𝘁, 𝘁𝗵𝗲 𝗲𝗻𝘁𝗶𝗿𝗲 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 𝗼𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗲𝗱 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗔𝗜. Watching the infrastructure provision and deploy through an AI-guided workflow in under a minute was honestly one of the most exciting parts of the experience.
+
+ • I also introduced SubAgents — isolated AI workers with controlled tool access (bash, grep, read, glob) for specific responsibilities like:
+- Security auditing 
+- Cost optimization
+These agents helped identify security improvements and infrastructure cost optimizations, saving roughly $50 annually — insights that could easily be missed in manual workflows.
+
+𝗞𝗲𝘆 𝗧𝗮𝗸𝗲𝗮𝘄𝗮𝘆𝘀
+✅Layered agent architecture transforming LLMs from conversational assistants/tools into controlled, specialised engineering systems that follow strict procedures. - very important in DevOps, where mistakes can mean outages or security risks.
+✅ Consistent, repeatable deployments with zero variation in output quality
+✅ Risk-free deployments through enforced safety protocols—no accidental production changes
+
+The question isn't whether AI will transform DevOps - it already has- the question is who's building with it.
+
+Grateful to the 𝗗𝗲𝘃𝗢𝗽𝘀 𝗠𝗶𝗰𝗿𝗼-𝗜𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽 (𝗗𝗠𝗜) program with Pravin Mishra for such a hands-on experience.
+As someone transitioning deeper into cloud engineering and infrastructure automation, building agentic AI workflows for DevOps feels like getting a glimpse into the future of infrastructure tooling.
+
+Excited to keep exploring how AI agents + cloud infrastructure create faster, safer deployment workflows.
+
+#DevOps #CloudEngineering #Terraform #AWS #AgenticAI #InfrastructureAsCode #AITools
+```
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/angela-chibuike_devops-cloudengineering-terraform-activity-7439070913997914113-T3H8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y  `
 
 ---
 
