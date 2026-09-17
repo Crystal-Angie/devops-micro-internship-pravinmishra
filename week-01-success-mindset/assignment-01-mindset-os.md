@@ -312,8 +312,7 @@ Set  6-8 hours of sleep time (10pm-6am).
 
 ### LinkedIn Post
 
-`Add your URL here`: https://www.linkedin.com/feed/update/urn:li:activity:7417594073731039232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBbwceIaETAeT12gSf6NsWQ%3D%3D  
-
+`https://www.linkedin.com/posts/angela-chibuike_after-joining-the-second-cohort-of-the-devops-activity-7417594073731039232-UtmX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y `
 ---
 
 ## 10. Proof of Work
