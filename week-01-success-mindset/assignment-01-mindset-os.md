@@ -179,15 +179,35 @@ No
 ## Book List
 
 1. Thinking in Systems: A Primer –  Donella H. Meadows
+
+[Assignment screenshot](screenshots/week1-01a.png)
+
 2. The Lean Startup – Eric Ries
+[Assignment screenshot](screenshots/week1-01b.png)
+
 3. The Psychology of Money – Morgan Housel
+[Assignment screenshot](screenshots/week1-01c.png)
+
 4. Outliers – Malcolm Gladwell
+[Assignment screenshot](screenshots/week1-01d.png)
+
 5. Atomic Habits – James Clear(Reread)
+[Assignment screenshot](screenshots/week1-01e.png)
+
 6. The Defining Decade: Why Your Twenties Matter—And How to Make the Most of Them Now –  Meg Jay
+[Assignment screenshot](screenshots/week1-01f.png)
+
 7. Who Better Than You?: The Art of Healthy Arrogance and Dreaming Big – Will Packer
+[Assignment screenshot](screenshots/week1-01g.png)
+
 8. Big Friendship: How We Keep Each Other Close – Aminatou Sow & Ann Friedman
+[Assignment screenshot](screenshots/week4-01j.png)
+
 9. Passion Struck – John R. Miles
+[Assignment screenshot](screenshots/week1-01h.png)
+
 10. The Intelligent Investor – Benjamin Graham
+[Assignment screenshot](screenshots/week1-01i.png) 
 
 ---
 
