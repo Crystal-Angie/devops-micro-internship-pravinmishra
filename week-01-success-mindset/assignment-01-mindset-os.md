@@ -163,7 +163,7 @@ This is part of DevOps Micro-Internship (DMI) by Pravin Mishra
 
 Paste your link here:
 
-`Add your URL here`: https://www.linkedin.com/feed/update/urn:li:activity:7417594073731039232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBbwceIaETAeT12gSf6NsWQ%3D%3D  
+`https://www.linkedin.com/feed/update/urn:li:activity:7417594073731039232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBbwceIaETAeT12gSf6NsWQ%3D%3D  `
 
 ---
 
