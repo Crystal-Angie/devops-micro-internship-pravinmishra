@@ -100,13 +100,13 @@ Switch back to the default branch and confirm that `contact.html` and the Contac
 
 #### Screenshot 9 — Terminal showing the checkout and `ls` output, proving `contact.html` is absent
 
-Add your screenshot here.
+[Assignment screenhot](screenshots/week4-03f.png)
 
 ---
 
 #### Screenshot 10 — Browser showing the homepage on the default branch with no Contact Page link
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week4-03g.png)
 
 ---
 
@@ -120,13 +120,13 @@ Merge `feature/contact-page` into your default branch and confirm the Contact pa
 
 #### Screenshot 11 — Output of `git merge feature/contact-page`
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week4-03h.png)
 
 ---
 
 #### Screenshot 12 — Output of `ls` showing `contact.html` after the merge
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week4-03h.png)
 
 ---
 
