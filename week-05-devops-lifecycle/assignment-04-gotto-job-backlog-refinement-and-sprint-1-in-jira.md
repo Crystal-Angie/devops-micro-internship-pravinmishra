@@ -16,11 +16,15 @@ In this 90-minute, time-boxed exercise, you will act as a Scrum team — or run 
 
 Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, Scrum Master, Dev Lead, DevOps Lead) was handled.
 
+Working Mode:
+Solo Mode — I performed all Scrum and delivery roles while following a Team-managed Scrum workflow in Jira.
+
 ### Evidence
 
 #### Screenshot 1 — Jira "Create project" screen, or the project sidebar after creation
 
-Add your screenshot here.
+[Assignment Sceenshot](screenshots/week5-4a.png)
+[Assignment screenshot](screenshots/week5-4b.png)
 
 ---
 
@@ -28,7 +32,20 @@ Add your screenshot here.
 
 Write one line for each role: PO (what you prioritized), SM (how you ensured process), Dev Lead (what you built), DevOps Lead (how you shipped).
 
-Write your answer here.
+Roles and their Responsibilities for this Assignment; 
+
+Product Owner (PO):
+Refined the backlog by defining clear UI-only stories, prioritizing visible text, spacing, and label improvements aligned with sprint goals.
+
+Scrum Master (SM):
+Set up the Team-managed Scrum project, created Sprint 1, ensured stories met readiness criteria, and guided work through the Jira workflow ensuring  work moved steadily from To Do → In Progress → Done.
+
+Dev Lead:
+Implemented approved UI-only changes (text updates, spacing, colors, and labels) in the frontend codebase.
+
+DevOps Lead:
+Deployed the updated UI to EC2, verified changes via public URL, and ensured the deployed version reflected Sprint 1 updates.
+
 
 ---
 
@@ -42,7 +59,7 @@ Create a Team-managed Scrum project named `Gotto Job – Team <#>` (Team Mode) o
 
 #### Screenshot 2 — Project created page showing the project name and key
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week5-4c.png)
 
 ---
 
@@ -56,7 +73,8 @@ Create the Epic `Improve Gotto Job UI discoverability & trust` to group the UI i
 
 #### Screenshot 3 — Backlog showing the Epic panel with the Epic visible
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week5-4d.png)
+[Assignment screenshot](screenshots/week5-4e.png)
 
 ---
 
@@ -70,14 +88,13 @@ Create at least six Stories under the Epic, estimate each with 1, 2, or 3 story 
 
 #### Screenshot 4 — Backlog showing the Epic and at least six Stories under it
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week5-4f.png)
 
 ---
 
 #### Screenshot 5 — One Story opened showing its Story Points and acceptance criteria filled in
 
-Add your screenshot here.
-
+[Assignment screenshot](screenshots/week5-4g.png)
 ---
 
 # Task 5 — Planning Poker (Estimate + Debate Notes)
@@ -90,7 +107,7 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 #### Screenshot 6 — Backlog showing Story Points visible, or two or three Stories opened showing their points
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week5-4h.png)
 
 ---
 
@@ -98,7 +115,34 @@ Add your screenshot here.
 
 For each story, explain in one or two lines why it is a 1, 2, or 3 (mention any debate, even in Solo Mode).
 
-Write your answer here.
+Approach:
+Planning Poker was used to align effort and risk. Since this was completed in solo mode, “debate” reflects internal consideration of scope and complexity.
+Planning poker (also called Scrum poker) helps agile teams estimate the time and effort needed to complete each initiative on their product backlog. It can be used with story points, ideal days, or any other estimating unit.
+
+Hero Tagline Clarity — 1 Story Point
+Reasoning:
+ This change is simple text replacement with basic responsiveness already in place. No logic, styling overhaul, or dependency involved—low effort and low risk.
+
+Primary CTA Color — 1 Story Point
+Reasoning:
+ No structural changes required,  contrast requirements are easy to validate.
+
+Job Card Typography — 2 Story Points
+Reasoning:
+ Requires adjusting font size, weight, and possibly spacing to ensure job titles are visually dominant without breaking layout consistency across screen sizes which increases complexity slightly above a 1-point task.
+
+REMOTE Badge (UI-only) — 2 Story Points
+Reasoning:
+ Involves conditional UI rendering (only for REMOTE-flagged jobs) and styling a pill component consistently across cards, effort is moderate.
+
+‘Posted on <date>” Text — 1 Story Point
+Reasoning:
+ Static date display with a fixed format. No backend logic or dynamic date calculation required.
+
+Advanced Search Labels — 2 Story Points
+Reasoning:
+ Requires updating form labels and placeholders while ensuring alignment and clarity across fields. Slight risk of UI misalignment.
+
 
 ---
 
@@ -112,13 +156,12 @@ Create Sprint 1, move three or four Stories into it (approximately 3–6 points)
 
 #### Screenshot 7 — Sprint 1 with the selected Stories inside it
 
-Add your screenshot here.
-
+[Assignment screenshot](screenshots/week5-4i.png)
 ---
 
 #### Screenshot 8 — One Story showing the Sub-tasks created
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week5-4j.png)
 
 ---
 
@@ -132,7 +175,7 @@ Open the Burndown Chart and confirm it exists for Sprint 1. It is acceptable if 
 
 #### Screenshot 9 — Burndown Chart page opened, even if empty
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week5-4k.png)
 
 ---
 
@@ -146,19 +189,19 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 10 — Jira board showing the Story moved to Done
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week5-4l.png)
 
 ---
 
 #### Screenshot 11 — Git commit output
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week5-4m.png)
 
 ---
 
 #### Screenshot 12 — Live URL in the browser showing the UI change, with the URL visible
 
-Add your screenshot here.
+[Assignment screenshot screenshot](screenshots/week5-4n.png)
 
 ---
 
@@ -172,7 +215,7 @@ Add a retro comment covering what went well, what to improve, one Scrum pillar o
 
 #### Screenshot 13 — Jira retro comment visible
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week5-4o.png)
 
 ---
 
@@ -188,13 +231,13 @@ Publish a LinkedIn post about what you delivered, including your live URL, three
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/angela-chibuike_%F0%9D%99%92%F0%9D%99%9D%F0%9D%99%96%F0%9D%99%A9-%F0%9D%99%98%F0%9D%99%96%F0%9D%99%A3-%F0%9D%99%99%F0%9D%99%9A%F0%9D%99%A5%F0%9D%99%A1%F0%9D%99%A4%F0%9D%99%AE%F0%9D%99%9E%F0%9D%99%A3%F0%9D%99%9C-%F0%9D%99%96-%F0%9D%99%A9-activity-7370098999745478656-dTUH?utm_source=share&utm_medium=member_android&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y `
 
 ---
 
 #### Screenshot 14 — Published LinkedIn post
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week5-4p.png)
 
 ---
 
