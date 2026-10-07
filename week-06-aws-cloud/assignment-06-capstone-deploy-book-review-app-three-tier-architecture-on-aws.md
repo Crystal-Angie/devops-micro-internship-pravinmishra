@@ -20,7 +20,7 @@ Create an architecture diagram showing the custom VPC (10.0.0.0/16), the six sub
 
 #### Diagram image or link
 
-Add your diagram image or link here.
+[Assignment screenshot](screenshots/week6-6a.png)
 
 ---
 
@@ -34,13 +34,25 @@ Record the AWS Region used and list every AWS service used across networking, co
 
 **Region:**
 
-Write your answer here.
+Region: I used “use1-az1 (us-east-1a) &  ‘use1-az2 (us-east-1b)”
 
 ---
 
 **Services:**
 
-Write your answer here.
+Services: The architecture I provisioned uses AWS VPC networking, multi-AZ load balancing, isolated compute tiers, subnets, security groups and a managed Multi-AZ RDS backend to achieve scalability, security, and high availability.
+
+AWS Services I Used Include;
+- VPC
+- Subnets
+- Internet Gateway
+- NAT Gateway
+- Route Tables
+- Security Groups
+- Amazon RDS(MySQL) & Read Replica
+- Application Load Balancers & Target grroups
+- Elastic compute cloud (Web & App EC2)
+
 
 ---
 
@@ -56,7 +68,7 @@ Confirm the Book Review App loads through the public ALB DNS name.
 
 Paste your public ALB DNS name here:
 
-`Add your URL here`
+`http://cap-pub-alb-885037544.us-east-1.elb.amazonaws.com `
 
 ---
 
@@ -70,37 +82,37 @@ Capture visual proof of every tier and load balancer.
 
 #### Web EC2
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-6b.png)
 
 ---
 
 #### App EC2
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-6c.png)
 
 ---
 
 #### Public ALB
 
-Add your screenshot here.
+[Assignemnt screenshot](screenshots/week6-6d.png)
 
 ---
 
 #### Internal ALB
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-6e.png)
 
 ---
 
 #### RDS + Replica
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-6f.png)
 
 ---
 
 #### App UI proof
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-6g.png)
 
 ---
 
@@ -114,19 +126,25 @@ Summarize what worked in the final deployment, the issues encountered and how ea
 
 **What worked:**
 
-Write your answer here.
+The VPC was correctly subnetted across multiple Availability Zones, with public subnets hosting Public Application Load Balancers & EC2(Web) and private subnets hosting App EC2 instance, Internal ALB and the RDS database.
+The frontend was served through Nginx, the backend Node.js (Express) application was deployed on EC2 and managed with PM2, and connectivity to the RDS MySQL database was confirmed. 
+Security Groups and routing were correctly configured to allow controlled traffic flow between the web, application, and database tiers.
+App was accessible via public ALB, registration and login also worked perfectly confirming everything was correctly set up and healthy.
+
 
 ---
 
 **Issues + fixes:**
 
-Write your answer here.
+- PM2 startup and port conflicts: Multiple PM2 processes caused port clashes and startup issues. These were fixed by cleaning existing PM2 processes, saving the correct process list, and enabling PM2 startup with systemd.
+
+- Reverse proxy and API path mismatch: Nginx and frontend requests initially pointed to incorrect API paths causing books not to show even though application was accessible on public-ALB DNS. Aligning api route mounting to the backend with the Nginx proxy configuration resolved the issue.
 
 ---
 
 **Tools/sources used:**
 
-Write your answer here.
+AI (ChatGPT), Notes and help from Group mates.
 
 ---
 
@@ -142,13 +160,13 @@ Publish a LinkedIn post sharing the capstone deployment, including the public AL
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/angela-chibuike_aws-threetierarchitecture-highavailability-activity-7432165106173743104-IdQ-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y `
 
 ---
 
 #### Screenshot of LinkedIn post
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-6h.png)
 
 ---
 
