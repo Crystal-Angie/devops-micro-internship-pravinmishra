@@ -20,31 +20,33 @@ Build a VPC (10.0.0.0/16) with two public and two private subnets across two Ava
 
 #### Screenshot 1 — VPC details showing CIDR 10.0.0.0/16
 
-Add your screenshot here.
-
+[Assignment screenshot](screenshots/week6-5a.png)
 ---
 
 #### Screenshot 2 — Subnets list showing four subnets and their Availability Zones
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5b.png)
+[Assignment screenshot](screenshots/week6-5c.png)
 
 ---
 
 #### Screenshot 3 — Public route table showing the Internet Gateway route and both public-subnet associations
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5d.png)
+[Assignment screenshot](screenshots/week6-5e.png)
 
 ---
 
 #### Screenshot 4 — Private route table showing the NAT Gateway route and both private-subnet associations
 
-Add your screenshot here.
+[Assignmnet screenshot](screenshots/week6-5f.png)
+[Assignment screenshot](screenshots/week6-5g.png)
 
 ---
 
 #### Screenshot 5 — NAT Gateway status showing Available and the Elastic IP
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5h.png)
 
 ---
 
@@ -58,19 +60,19 @@ Create `ha-alb-sg` (HTTP public), `ha-web-sg` (HTTP only from `ha-alb-sg`, SSH f
 
 #### Screenshot 6 — ALB Security Group inbound rules
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5i.png)
 
 ---
 
 #### Screenshot 7 — EC2 Security Group inbound rules showing the ALB Security Group reference and SSH from your IP
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5j.png)
 
 ---
 
 #### Screenshot 8 — RDS Security Group inbound rule showing the database port allowed only from the EC2 Security Group
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5k.png)
 
 ---
 
@@ -84,13 +86,14 @@ Launch a private, Multi-AZ RDS database (MySQL or PostgreSQL) using the private 
 
 #### Screenshot 9 — RDS summary showing Multi-AZ = Yes and Publicly accessible = No
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5l.png)
+[Assignment screenshot](screenshots/week6-5m.png)
 
 ---
 
 #### Screenshot 10 — RDS connectivity section showing the DB Subnet Group and Security Group
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5n.png)
 
 ---
 
@@ -104,13 +107,15 @@ Create a Launch Template whose user data installs the web-server runtime, deploy
 
 #### Screenshot 11 — Launch Template details showing that user data exists, including a visible snippet
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5o.png)
+[Assignment screenshot](screenshots/week6-5p.png)
 
 ---
 
 #### Screenshot 12 — A running instance created from the template showing that the application responds on port 80 through a local test or browser using its public IP
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5q.png)
+[Assignment screenshot](screenshots/week6-5r.png)
 
 ---
 
@@ -124,13 +129,13 @@ Create an internet-facing ALB across both public subnets with an HTTP listener a
 
 #### Screenshot 13 — ALB details showing two public subnets in two Availability Zones
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5s.png)
 
 ---
 
 #### Screenshot 14 — Target group showing at least one healthy target
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5t.png)
 
 ---
 
@@ -144,13 +149,14 @@ Create an Auto Scaling Group from the Launch Template across both public subnets
 
 #### Screenshot 15 — Auto Scaling Group showing desired, minimum, and maximum capacity and the selected subnet Availability Zones
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5u1.png)
+[Assignment screenshot](screenshots/week6-5u.png)
 
 ---
 
 #### Screenshot 16 — EC2 instances list showing two running instances in different Availability Zones
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5v.png)
 
 ---
 
@@ -164,13 +170,18 @@ Confirm the application communicates with the RDS database through the ALB DNS n
 
 #### Screenshot 17 — Browser showing the application loaded through the ALB DNS name with the URL visible
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5w.png)
 
 ---
 
 #### Screenshot 18 — Proof of a database write through a UI message or database query output
 
-Add your screenshot here.
+Write operation
+‘’ mysql -h <endpoint> -u admin -p -e "USE wordpress; INSERT INTO wp_posts (post_title, post_author, post_content, post_status) VALUES('Test','1','Angies\'s blog Test','publish'); SELECT * FROM wp_posts ORDER BY ID DESC LIMIT 1;"
+
+
+[Assignment screenshot](screenshots/week6-5x.png)
+[Assignment screenshot](screenshots/week6-5y.png)
 
 ---
 
@@ -186,25 +197,29 @@ Test B: simulate an Availability Zone impact (stop, detach, or reduce desired ca
 
 #### Screenshot 19 — EC2 showing the terminated instance and the newly launched instance; timestamps are helpful
 
-Add your screenshot here.
+[Assignemnt screenshot](screenshots/week6-5a1.png)
 
 ---
 
 #### Screenshot 20 — Target group showing healthy targets after replacement
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5b1.png)
 
 ---
 
 #### Screenshot 21 — Evidence that an instance was removed, detached, placed in Standby, or stopped in one Availability Zone
 
-Add your screenshot here.
+Previously
+[Assignment screenshot](screenshots/week6-5c1.png)
+
+Evidence
+[assignment screenshot](screenshots/week6-5c2.png)
 
 ---
 
 #### Screenshot 22 — Browser showing that the ALB DNS endpoint still works during the change
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5d1.png)
 
 ---
 
@@ -218,7 +233,7 @@ Summarize the VPC/subnet layout, the ALB and Auto Scaling Group setup, the priva
 
 #### Screenshot 23 — A simple architecture diagram, which may be hand-drawn, or an AWS console overview showing the components
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5e1.png)
 
 ---
 
@@ -226,20 +241,29 @@ Add your screenshot here.
 
 Summarize the VPC and subnets across the two Availability Zones.
 
-Write your answer here.
+VPC & Networking:
+
+The application is deployed within a custom VPC with subnets spanning two Availability Zones. Public subnets host the Application Load Balancer and EC2 instances + NAT gateway with access to IGW, while private subnets host the RDS database, ensuring proper network isolation and security.
 
 Summarize the ALB and Auto Scaling Group setup.
 
-Write your answer here.
+Application Layer (ALB + ASG):
+
+An Application Load Balancer (ALB) distributes incoming HTTP traffic across EC2 instances managed by an Auto Scaling Group (ASG). The ASG spans two AZs and maintains the desired capacity, automatically replacing unhealthy or terminated instances. EC2 instances are stateless and use a launch template from a baked AMI with Apache and WordPress configured.
 
 Summarize the private Multi-AZ RDS setup.
 
-Write your answer here.
+Database Layer (RDS):
+
+The WP application uses Amazon RDS deployed in a Multi-AZ configuration within private subnets. WordPress is configured to connect to the RDS endpoint, ensuring high availability and data persistence independent of EC2 instance lifecycle.
 
 Summarize the results of both high-availability tests.
 
-Write your answer here.
+High Availability Validation:
 
+High Availability was validated using two means;
+- First, one web instance  was terminated and it was confirmed the Auto Scaling Group replaces it automatically without interrupting the ALB.
+- Secondly, capacity was removed from one Availability Zone, by putting one instance on standby, from one Availability Zone. During the test, the application remained accessible via the ALB DNS, confirming that traffic was successfully served from the remaining AZ without downtime.
 ---
 
 # LinkedIn Post (Required)
@@ -254,13 +278,13 @@ Publish a LinkedIn post about the high-availability build, including the ALB URL
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/angela-chibuike_highavailability-aws-devops-activity-7377453642955771904-kWTc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y `
 
 ---
 
 #### Screenshot of LinkedIn post
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week6-5f1.png)
 
 ---
 
