@@ -58,7 +58,7 @@ Add your screenshot here.
 
 Paste the Azure Storage static website URL here:
 
-`Add your URL here`
+`https://statstore1.z13.web.core.windows.net`
 
 ---
 
