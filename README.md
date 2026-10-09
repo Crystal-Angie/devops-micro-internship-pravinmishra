@@ -135,7 +135,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 04 | Git & GitHub | ✅ Completed  | ✅ Solved  | https://www.linkedin.com/posts/angela-chibuike_dmibypravinmishra-git-github-ugcPost-7508113626654986241-wkUG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y | https://medium.com/@petersangela809/hands-on-with-github-from-forking-a-repository-to-creating-a-pull-request-fd65c83ae3b5?sharedUserId=petersangela809  |
 | 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/angela-chibuike_pmp-sprint-activity-7427383393505710080-HO7X?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y  |https://medium.com/@petersangela809/from-localhost-to-live-my-5-day-sprint-cf2f4bcc0c1b?postPublishedType=repub  |
 | 06 | AWS Cloud | ✅ Completed  |  ✅ Solved | https://www.linkedin.com/posts/angela-chibuike_highavailability-aws-devops-activity-7377453642955771904-kWTc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y  | https://medium.com/@petersangela809/high-availability-in-cloud-applications-what-it-means-and-how-to-achieve-it-12e653765688  |
-| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 07 | Azure Cloud |  🔄 In Progress |  🔄 In Progress | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
 | 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |

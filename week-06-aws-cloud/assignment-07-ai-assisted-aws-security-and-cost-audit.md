@@ -295,13 +295,13 @@ Suggested tags:
 
 Paste your LinkedIn post URL here:
 
-`https://www.linkedin.com/posts/angela-chibuike_aws-threetierarchitecture-highavailability-activity-7432165106173743104-IdQ-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y `
+`https://www.linkedin.com/feed/update/urn:li:activity:7514337251456110593/ `
 
 ---
 
 #### Screenshot of Published LinkedIn Post
 
-[Assignment screenshot](screenshots/week6-7q.png)
+[Assignment screenshot](screenshots/week6-7r.png)
 
 ---
 
