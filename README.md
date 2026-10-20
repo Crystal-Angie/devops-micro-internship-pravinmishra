@@ -88,8 +88,8 @@ This is not a course. It is an internship-style program — real deployments, re
 <! Week 06 → AWS Cloud -->
 <! [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
 
-<!-- Week 07 → Azure Cloud -->
-<!-- [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) -->
+<! Week 07 → Azure Cloud -->
+<! [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) -->
 
 <!-- Week 08 → Terraform -->
 <!-- [![Week 08 – Terraform](./badges/week-08.svg)](./week-08-terraform/) -->
@@ -135,8 +135,8 @@ This is not a course. It is an internship-style program — real deployments, re
 | 04 | Git & GitHub | ✅ Completed  | ✅ Solved  | https://www.linkedin.com/posts/angela-chibuike_dmibypravinmishra-git-github-ugcPost-7508113626654986241-wkUG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y | https://medium.com/@petersangela809/hands-on-with-github-from-forking-a-repository-to-creating-a-pull-request-fd65c83ae3b5?sharedUserId=petersangela809  |
 | 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/angela-chibuike_pmp-sprint-activity-7427383393505710080-HO7X?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y  |https://medium.com/@petersangela809/from-localhost-to-live-my-5-day-sprint-cf2f4bcc0c1b?postPublishedType=repub  |
 | 06 | AWS Cloud | ✅ Completed  |  ✅ Solved | https://www.linkedin.com/posts/angela-chibuike_highavailability-aws-devops-activity-7377453642955771904-kWTc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y  | https://medium.com/@petersangela809/high-availability-in-cloud-applications-what-it-means-and-how-to-achieve-it-12e653765688  |
-| 07 | Azure Cloud |  🔄 In Progress |  🔄 In Progress | — | — |
-| 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
+| 07 | Azure Cloud |  ✅ Completed  |  ✅ Solved | https://www.linkedin.com/posts/angela-chibuike_azure-aws-devops-activity-7384082167502417920-jcgB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn-PSABhIre4cnftTYXk433XaYMG-l_k9Y  | https://medium.com/@petersangela809/from-aws-to-azure-deploying-a-two-tier-application-cd25baf143ff  |
+| 08 | Terraform | 🔄 In Progress | 🔄 In Progress | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
 | 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
 | 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |

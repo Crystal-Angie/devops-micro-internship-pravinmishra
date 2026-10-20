@@ -20,13 +20,14 @@ Create an architecture diagram and implementation plan identifying the presentat
 
 #### Screenshot 1 — Architecture diagram showing the public entry point, three tiers, network boundaries, and traffic flow
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week7-6a.png)
 
 ---
 
 #### Screenshot 2 — Written architecture assumptions and selected Azure services
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week7-6b1.png)
+[Assignment screenshot](screenshots/week7-6b2.png)
 
 ---
 
