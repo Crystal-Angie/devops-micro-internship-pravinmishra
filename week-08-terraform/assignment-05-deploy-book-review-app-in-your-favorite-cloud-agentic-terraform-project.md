@@ -110,7 +110,7 @@ Create the modular Terraform project and implement the network and security laye
 
 Add a screenshot showing the modular Terraform project structure.
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week8-5g.png)
 
 ---
 
@@ -118,7 +118,7 @@ Add your screenshot here.
 
 Add a screenshot showing the six-subnet architecture across two availability locations.
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week8-5f.png)
 
 ---
 
@@ -126,7 +126,8 @@ Add your screenshot here.
 
 Add a screenshot showing the public and private tier separation, including routing and security boundaries.
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week8-5h1.png)
+[Assignment screenshot](screenshots/week8-5h2.png)
 
 ---
 
@@ -142,7 +143,7 @@ Deploy the public and internal load balancers and the Web and Application comput
 
 Add a screenshot showing the Web and Application compute resources in their required subnets.
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week8-5i.png)
 
 ---
 
@@ -150,7 +151,7 @@ Add your screenshot here.
 
 Add a screenshot showing the internet-facing public load balancer.
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week8-5j.png)
 
 ---
 
@@ -158,7 +159,7 @@ Add your screenshot here.
 
 Add a screenshot showing the private internal load balancer.
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week8-5k.png)
 
 ---
 
@@ -166,7 +167,9 @@ Add your screenshot here.
 
 Add a screenshot showing healthy target groups or backend pools.
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week8-5j.png)
+[Assignment screenshot](screenshots/week8-5k.png)
+
 
 ---
 
@@ -182,7 +185,7 @@ Deploy a private, highly available managed MySQL database with a read replica an
 
 Add a screenshot showing the managed MySQL database deployment.
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week8-5l1.png)
 
 ---
 
@@ -190,7 +193,7 @@ Add your screenshot here.
 
 Add a screenshot showing the Multi-AZ or high-availability configuration.
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week8-5l2.png)
 
 ---
 
@@ -198,7 +201,7 @@ Add your screenshot here.
 
 Add a screenshot showing the read replica configuration.
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week8-5l2.png)
 
 ---
 
@@ -206,7 +209,7 @@ Add your screenshot here.
 
 Add a screenshot showing that the database is private and accepts MySQL traffic only from the Application Tier.
 
-Add your screenshot here.
+[Assignment screenshot](screenshots/week8-5m.png)
 
 ---
 
